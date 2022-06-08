@@ -34,6 +34,7 @@
   </p>
 </p>
 
+<a name="installing-umbrel"></a>
 ## 🚀 Installing Umbrel
 > Umbrel is currently in beta and not considered secure. Please see [SECURITY.md](SECURITY.md) for more details.
 
