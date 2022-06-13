@@ -11,4 +11,4 @@ These features combined ensure that the backup server doesn't learn any sensitiv
 
 Due to the key/id being deterministically derived from the Umbrel seed, all that's needed to fully recover an Umbrel is the mnemonic seed phrase. Upon recovery the device can automatically regenerate the same backup id/encryption key, request the latest backup from the backup server, decrypt it, and restore the user's settings and Lightning network channel data.
 
-There is currently no way to disable backups or recover from them in the dashboard yet. Both of these features will be introduced in the coming updates.
+There is currently no way to disable backups. This features will be introduced in the coming updates.
